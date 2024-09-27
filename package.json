@@ -1,0 +1,31 @@
+{
+  "name": "sanjaynode",
+  "version": "1.0.0",
+  "description": "start new journy",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanjay prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.0",
+    "express-validator": "^7.0.1",
+    "formidable": "^3.5.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "pm2": "^5.3.0",
+    "socket.io": "^4.7.1",
+    "start": "^5.1.0"
+  }
+}
